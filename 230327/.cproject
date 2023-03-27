@@ -40,11 +40,11 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1076032660.1507443614" name="01.c" rcbsApplicability="disable" resourcePath="01.c" toolsToInvoke="cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1118309197.1817685168">
-						<tool id="cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1118309197.1817685168" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1118309197"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1076032660.1676712351" name="03.c" rcbsApplicability="disable" resourcePath="03.c" toolsToInvoke="cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1118309197.229549988">
+						<tool id="cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1118309197.229549988" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1118309197"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="01.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="03.c|02.c|01.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
